@@ -66,5 +66,5 @@ source("tikhonov.R")
 实验过程和结果见：
 
 ```text
-陈秀萍-实验报告.pdf
+Report.pdf
 ```
