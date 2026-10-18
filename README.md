@@ -1,5 +1,3 @@
-# Statistics Computing Homework 2
-
 姓名：陈秀萍  
 学号：2026001406
 
